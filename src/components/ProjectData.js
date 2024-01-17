@@ -6,7 +6,7 @@ function ProjectData({sliceNum}) {
     const projectData = [
         {
             name:"NetflixGPT",
-            image: "/images/netflix.webp",
+            image: "/images/Netflix.webp",
             title: "Technologies used: ReactJS, Redux, Firebase, & Tailwind-CSS, TMDB-API, OPEN-AI",
             desc: "NetFlixGPT website with a beautiful design with integration of open ai for movie search from tmdb, firebase used for authentication, redux for state management, etc",
             github: "https://github.com/mahafuztechie/mahafuz-portfolio-app",
