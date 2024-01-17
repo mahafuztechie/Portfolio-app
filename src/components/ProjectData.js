@@ -9,7 +9,7 @@ function ProjectData({sliceNum}) {
             image: "/images/Netflix.webp",
             title: "Technologies used: ReactJS, Redux, Firebase, & Tailwind-CSS, TMDB-API, OPEN-AI",
             desc: "NetFlixGPT website with a beautiful design with integration of open ai for movie search from tmdb, firebase used for authentication, redux for state management, etc",
-            github: "https://github.com/mahafuztechie/mahafuz-portfolio-app",
+            github: "https://github.com/mahafuztechie/Portfolio-app",
             live: "https://netflix-gpt-react-ruby.vercel.app/",
             newproj: "trend"
         },
